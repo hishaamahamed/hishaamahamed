@@ -20,7 +20,7 @@ Student at B. S. Abdur Rahman Crescent Institute Of Science And Technology pursu
 <br/>
 <br/>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/?HishaamAhamed?theme=chartreuse&font=Old%20Standard%20TT&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/?hishaamahamed?theme=chartreuse&font=Old%20Standard%20TT&ext=heatmap)
 
 <br/>
 <br/>
