@@ -24,7 +24,3 @@ Student at B. S. Abdur Rahman Crescent Institute Of Science And Technology pursu
 
 <br/>
 <br/>
-
-![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=hishaamAhamed&theme=dark&show_icons=true&&hide=issues,contribs) 
-<br/>
-![Bharath's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharath77Bharath&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)]
